@@ -46,6 +46,17 @@ To make the "ProviderSettings" bean work, we need to add the below entry in the 
 127.0.0.1 auth-server
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/189487877-7b419da3-2576-4218-96db-408925f38cb4.png)
+<br>
+I added the Oauth resource server port 8090
+<br>
+![image](https://user-images.githubusercontent.com/36573782/189489961-16e4b7c1-9597-4e28-8540-d0acbaee83d8.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/189490003-8fac893a-6528-468a-ac41-51d1ea58cc79.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/189490026-a103402a-ea66-4d72-9b40-7e9f16d67a81.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/189490051-7a1f12c0-249c-4ff5-9a80-0be7f108037d.png)
+
 
 
 
